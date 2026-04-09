@@ -1,6 +1,6 @@
 # AI + Data Engineer
 
-Hey, I'm Saumya 👋  
+Hey, I'm Saumya  
 Final-year CSE (AI/ML) student building real-world AI systems, data pipelines, and analytics solutions.
 
 ## What I do
